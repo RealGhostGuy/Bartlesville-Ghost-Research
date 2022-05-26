@@ -6,8 +6,10 @@ h1 {
   color: white;
 }
 
-strong {
+p {
   color: white;
+  font-weight: normal;
+  margin: auto 30px auto 30px;
 }
 
 h2 {
